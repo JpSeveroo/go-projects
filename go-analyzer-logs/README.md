@@ -25,7 +25,7 @@ Este projeto faz parte dos meus estudos em **Engenharia de Software** e foca em 
 
 ### Instalação e Execução
 1. Clone o repositório:
-   git clone https://github.com/Jpseveroo/go-analyzer-logs.git
+   git clone https://github.com/JpSeveroo/go-analyzer-logs.git
 
 2. Acesse o diretório e execute o programa:
    cd go-analyzer-logs
