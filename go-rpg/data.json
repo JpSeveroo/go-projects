@@ -1,0 +1,15 @@
+{
+  "Player": {
+    "Nick": "Sadzin",
+    "Classe": "Mago",
+    "Nivel": 15
+  },
+  "Mission": {
+    "01": {
+      "ID": "01",
+      "Nome": "Covil Demoniaco",
+      "Dificuldade": 5,
+      "Recompensa": 5000
+    }
+  }
+}
