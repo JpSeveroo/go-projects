@@ -20,7 +20,7 @@ Certifique-se de ter o **Go** instalado na sua máquina (versão 1.25 ou superio
 
 1.  Clone este repositório (ou baixe os arquivos):
     ```bash
-    git clone <url-do-seu-repo>
+    git clone <https://github.com/JpSeveroo/go-projects/tree/main/go-rpg>
     cd go-rpg
     ```
 
